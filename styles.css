@@ -1,0 +1,35 @@
+/* add your CSS here */
+body{
+  width: 516px;
+  height: 788 px;
+}
+
+.tudo{
+  margin-left: 12px;
+  padding:16px;
+  border: 1px solid #CECECE;
+  box-shadow: 10px 10px 5px #e6e6e6;
+}
+.texto{
+  padding:16px;
+  border: 1px solid #CECECE;
+}
+.interessante{
+  font-style: italic;
+}
+ul  {
+    list-style: none;
+    text-align: left;
+
+}
+span{
+  font-weight: bold;
+}
+p {
+  color: #123423;
+}
+
+img {
+  width: 470px;
+  margin-bottom: 20px;
+}
