@@ -1,7 +1,7 @@
 /* add your CSS here */
 body{
   width: 516px;
-  height: 788 px;
+  height: 788px;
 }
 
 .tudo{
@@ -9,6 +9,7 @@ body{
   padding:16px;
   border: 1px solid #CECECE;
   box-shadow: 10px 10px 5px #e6e6e6;
+  width:300px;
 }
 .texto{
   padding:16px;
@@ -30,6 +31,6 @@ p {
 }
 
 img {
-  width: 470px;
+
   margin-bottom: 20px;
 }
